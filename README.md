@@ -16,7 +16,7 @@
 - **Tools:** Git, Postman, Jupyter Notebook, Adobe Illustrator, Adobe Photoshop, Canva
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=enrilefahrezi&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=enrilefadhli&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 - [LinkedIn](your-linkedin-url)
