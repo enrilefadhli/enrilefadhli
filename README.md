@@ -9,7 +9,7 @@
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Go
 - **Frameworks:** Vue.js, Quasar, Laravel, Next.js
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Postman, Jupyter Notebook, Adobe Illustrator, Adobe Photoshop, Canva
 
 ## 📈 GitHub Stats
