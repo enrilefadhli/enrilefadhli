@@ -4,7 +4,6 @@
 - 🎓 I’m currently studying **Sistem Informasi** at Universitas Pembangunan Nasional 'Veteran' Jakarta.
 - 🌱 I’m currently learning and exploring **Go REST API** development, focusing on building efficient and scalable backend systems.
 - 📫 How to reach me: enrilefadhli@gmail.com
-- ⚡ Fun fact: I love solving mathematical problems!
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Go
